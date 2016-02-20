@@ -11,3 +11,4 @@ var print = function (word) {
 var print = function (word) {
     console.log(word)
 }
+ 
